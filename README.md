@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Satyam SHree👋 </h1>
+<h1 align="center">Hey there! I'm Satyam Shree👋 </h1>
 <h3 align="center"> Full Stack | Competitive Programmer  </h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
